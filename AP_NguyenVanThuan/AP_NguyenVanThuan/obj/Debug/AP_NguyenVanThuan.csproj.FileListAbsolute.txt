@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\AP_NguyenVanThuan\AP_NguyenVanThuan\obj\Debug\AP_NguyenVanThuan.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\AP_NguyenVanThuan\AP_NguyenVanThuan\obj\Debug\AP_NguyenVanThuan.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\AP_NguyenVanThuan\AP_NguyenVanThuan\bin\Debug\AP_NguyenVanThuan.exe.config
+C:\Users\pc\source\repos\AP_NguyenVanThuan\AP_NguyenVanThuan\bin\Debug\AP_NguyenVanThuan.exe
+C:\Users\pc\source\repos\AP_NguyenVanThuan\AP_NguyenVanThuan\bin\Debug\AP_NguyenVanThuan.pdb
+C:\Users\pc\source\repos\AP_NguyenVanThuan\AP_NguyenVanThuan\obj\Debug\AP_NguyenVanThuan.exe
+C:\Users\pc\source\repos\AP_NguyenVanThuan\AP_NguyenVanThuan\obj\Debug\AP_NguyenVanThuan.pdb
